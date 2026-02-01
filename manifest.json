@@ -1,0 +1,58 @@
+{
+  "name": "Sogin - Pain Relieving Lotion",
+  "short_name": "Sogin",
+  "description": "Fast relief from muscular pain, sprains, fibrositis & rheumatic conditions",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#004d73",
+  "theme_color": "#0077b3",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/images/sogin-logo.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/images/sogin-logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["health", "medical", "shopping"],
+  "shortcuts": [
+    {
+      "name": "Shop Now",
+      "short_name": "Shop",
+      "description": "Buy Sogin Pain Relieving Lotion",
+      "url": "/#shop",
+      "icons": [
+        {
+          "src": "/images/sogin-product.png",
+          "sizes": "96x96"
+        }
+      ]
+    },
+    {
+      "name": "Contact Us",
+      "short_name": "Contact",
+      "url": "/#contact",
+      "icons": [
+        {
+          "src": "/images/sogin-logo.png",
+          "sizes": "96x96"
+        }
+      ]
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/images/sogin-product.png",
+      "sizes": "540x720",
+      "type": "image/png"
+    }
+  ]
+}
